@@ -2,5 +2,7 @@
   "cssTheme": "Things",
   "theme": "system",
   "accentColor": "",
-  "monospaceFontFamily": "CaskaydiaMono Nerd Font Mono"
+  "monospaceFontFamily": "CaskaydiaMono Nerd Font Mono",
+  "showViewHeader": false,
+  "showRibbon": false
 }
