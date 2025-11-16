@@ -1,5 +1,6 @@
 {
   "cssTheme": "Minimal",
   "theme": "system",
-  "accentColor": ""
+  "accentColor": "",
+  "monospaceFontFamily": "CaskaydiaMono Nerd Font Mono"
 }
