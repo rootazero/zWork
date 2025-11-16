@@ -3,6 +3,6 @@
   "theme": "system",
   "accentColor": "",
   "monospaceFontFamily": "CaskaydiaMono Nerd Font Mono",
-  "showViewHeader": false,
+  "showViewHeader": true,
   "showRibbon": false
 }
