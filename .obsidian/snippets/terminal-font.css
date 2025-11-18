@@ -1,0 +1,23 @@
+/* 强制为 Obsidian 终端设置 Nerd Font (v2)
+  请确保下面的 'YOUR_FONT_NAME_HERE' 已经被替换为你从“字体册”中找到的“PostScript 名称”
+*/
+
+/* 尝试 1: 针对整个终端容器 */
+.obsidian-terminal {
+    font-family: 'CaskaydiaMono Nerd Font Mono' !important;
+}
+
+/* 尝试 2: 针对 xterm.js 的行容器 */
+.obsidian-terminal .xterm-rows {
+    font-family: 'CaskaydiaMono Nerd Font Mono' !important;
+}
+
+/* 尝试 3: 针对 xterm.js 的文本层 */
+.obsidian-terminal .xterm-text-layer {
+    font-family: 'CaskaydiaMono Nerd Font Mono' !important;
+}
+
+/* 尝试 4: 针对 xterm.js 的主视口 */
+.obsidian-terminal .xterm-viewport {
+    font-family: 'CaskaydiaMono Nerd Font Mono' !important;
+}

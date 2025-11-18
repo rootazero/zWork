@@ -3,6 +3,10 @@
   "theme": "system",
   "accentColor": "",
   "monospaceFontFamily": "CaskaydiaMono Nerd Font Mono",
-  "showViewHeader": true,
-  "showRibbon": false
+  "showViewHeader": false,
+  "showRibbon": true,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "terminal-font"
+  ]
 }
