@@ -1,1 +1,28 @@
+# --- macOS ---
 .DS_Store
+.DS_Store?
+._*
+.Trashes
+.Spotlight-V100
+
+# --- iCloud (同步冲突与占位符) ---
+*.icloud
+*conflicted copy*
+
+# --- iA（笔记软件） ---
+.iA/
+Backup/
+
+# --- Vim (编辑器临时文件) ---
+*.swp
+*.swo
+
+# --- Obsidian (笔记软件) ---
+.trash/
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# --- 其他通用 ---
+*.log
